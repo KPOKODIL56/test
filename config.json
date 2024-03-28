@@ -1,0 +1,12 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "185.103.101.78:3333",
+            "rig-id": "user"
+        }
+    ]
+}
